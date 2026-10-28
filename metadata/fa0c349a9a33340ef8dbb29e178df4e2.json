@@ -6,10 +6,14 @@
   "upload_time": "2026-10-28T08:19:52+00:00",
   "expiry_time": "2026-10-29T08:19:52+00:00",
   "max_downloads": 3,
-  "download_count": 1,
+  "download_count": 2,
   "downloads": [
     {
       "time": "2026-10-28T08:21:14+00:00",
+      "status": "success"
+    },
+    {
+      "time": "2026-10-28T08:21:17+00:00",
       "status": "success"
     }
   ],
