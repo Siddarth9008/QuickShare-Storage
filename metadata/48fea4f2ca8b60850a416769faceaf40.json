@@ -11,9 +11,14 @@
     {
       "time": "2026-10-28T07:54:25+00:00",
       "status": "success"
+    },
+    {
+      "time": "2026-10-28T07:55:11+00:00",
+      "status": "revoked"
     }
   ],
   "owner_id_hash": "ef3529ed5bb2441ab922864c12f89a09e11840c6120d6609ff47344673d1bd52",
-  "revoked": false,
-  "cleanup_status": "pending"
+  "revoked": true,
+  "cleanup_status": "pending",
+  "revoked_at": "2026-10-28T07:55:11+00:00"
 }
